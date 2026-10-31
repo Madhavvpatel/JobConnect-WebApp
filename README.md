@@ -1,3 +1,5 @@
+Live: job-connect-web-app-gu4g.vercel.app
+
 # JobConnect 💼⚡
 JobConnect is a premium, modern full-stack Job Portal web application built with the MERN/PRN stack (MySQL + Prisma ORM, Express.js, React, Node.js). 
 
