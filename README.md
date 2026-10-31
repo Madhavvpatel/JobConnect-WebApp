@@ -1,20 +1,20 @@
-Live: job-connect-web-app-gu4g.vercel.app
+Live Demo: https://job-connect-web-app-gu4g.vercel.app/
 
-# JobConnect 💼⚡
+# JobConnect 
 JobConnect is a premium, modern full-stack Job Portal web application built with the MERN/PRN stack (MySQL + Prisma ORM, Express.js, React, Node.js). 
 
 Featuring a highly polished, responsive interface, the platform offers dynamic search query cards, live applicant messaging, dynamic initials badges, and secure role-based access control.
 
 ---
 
-## ✨ Features
+## Features
 
-- **🔐 Robust Auth & Email Verification**: Role-based (Candidate & Recruiter) registration with JWT token management, password resets, and dynamic email verification OTP codes.
-- **💼 Controlled Job Posting**: Recruiters can only post job openings for their registered profile company. The backend force-overwrites recruiter details to prevent API request tampering.
-- **🗑️ Safe Cascade Deletions**: Deleting a job automatically cleans up all associated chat messages, applicant chat rooms, and application tracking objects to avoid database foreign key conflicts.
-- **📊 Real-time Messaging System**: Live interactive chat channels inside candidate applications for instant coordinator communication.
-- **🔍 Advanced Unified Search Grid**: Real-time filtering by keyword, location, and job type with zero placeholder clipping and responsive column stacking.
-- **🎨 Glassmorphic UI & Animations**: Built using Tailwind CSS, featuring floating glass layout structures, responsive split-column job detail panels, and soft vector animations.
+- ** Robust Auth & Email Verification**: Role-based (Candidate & Recruiter) registration with JWT token management, password resets, and dynamic email verification OTP codes.
+- ** Controlled Job Posting**: Recruiters can only post job openings for their registered profile company. The backend force-overwrites recruiter details to prevent API request tampering.
+- ** Safe Cascade Deletions**: Deleting a job automatically cleans up all associated chat messages, applicant chat rooms, and application tracking objects to avoid database foreign key conflicts.
+- ** Real-time Messaging System**: Live interactive chat channels inside candidate applications for instant coordinator communication.
+- ** Advanced Unified Search Grid**: Real-time filtering by keyword, location, and job type with zero placeholder clipping and responsive column stacking.
+- ** Glassmorphic UI & Animations**: Built using Tailwind CSS, featuring floating glass layout structures, responsive split-column job detail panels, and soft vector animations.
 
 ---
 
@@ -26,7 +26,7 @@ Featuring a highly polished, responsive interface, the platform offers dynamic s
 
 ---
 
-## 🚀 Local Installation & Setup
+## Local Installation & Setup
 
 ### Prerequisites
 
@@ -107,7 +107,7 @@ cd jobconnect
 
 ---
 
-## 📋 Troubleshooting
+## Troubleshooting
 
 - **MySQL Database Connection Issue**:
   - Verify that the local MySQL service is active and listening on port `3306`.
